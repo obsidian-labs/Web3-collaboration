@@ -1,4 +1,4 @@
-# Project name
+# Polkadot IDE
 
 ## Project Description
 If this application in response to an RFP then please indicate this on the first line of this section.
